@@ -1,11 +1,16 @@
 _repo: Moderne-Probleme_55014
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55014-h/images/cover.jpg
 creator:
   author:
     agent_name: Hartmann, Eduard von
     gutenberg_agent_id: '48151'
     url: http://www.gutenberg.org/2009/agents/48151
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55014#Moderne-Probleme
 gutenberg_issued: '2017-06-30'
 gutenberg_type: Text
 identifiers:
